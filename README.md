@@ -1,3 +1,3 @@
 # Cone_Detect
-Create From Scilab Library\n
-Develop By Kawin Chinpong (kawin7538)
+-Create From Scilab Library
+-Develop By Kawin Chinpong (kawin7538)
