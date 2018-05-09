@@ -10,7 +10,7 @@ clf;
 scicv_Init();
 thresh_num=190;
 headcut=10;
-bottomcut=50;
+bottomcut=60;
 
 
 
@@ -164,3 +164,6 @@ disp(angle_left);
 disp("Angle Right Side");
 disp(-angle_right);
 messagebox("Left Side = "+string(angle_left)+" and Right Side = "+string(-angle_right),"Angle Left And Right");
+
+//Program to Check Cone Angle Left And Right Phase
+//Develop By Kawin Chinpong (kawin7538)
