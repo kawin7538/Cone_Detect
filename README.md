@@ -7,7 +7,9 @@ This program is intended to measure the angle of cone in left side and right sid
 
 # Algorithm and step to use this program
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/8Op_wybdTJU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8Op_wybdTJU
+" target="_blank"><img src="http://img.youtube.com/vi/8Op_wybdTJU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Create Using Scilab Library
 
